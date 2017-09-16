@@ -5,17 +5,7 @@ User Story- Manager
 
 User Story-End User
 
-Steps:
-1. SQL DB
-  a. 
- CREATE TABLE Persons
-(
-UserID int,
-LastName varchar(255),
-FirstName varchar(255),
-Address varchar(255),
-City varchar(255)
-);
-
+1. DB in SQL
+2. DB in NoSQL
   
-2. Angular Interface
+3. Angular Interface
