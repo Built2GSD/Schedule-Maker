@@ -1,7 +1,7 @@
 # Schedule-Maker
 <!DOCTYPE html>
 <html>
-
+Add to other apps.
 <body>
 
 <div class="container">
